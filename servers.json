@@ -1,20 +1,20 @@
 [
     {
-      "action": false,
-      "color": "FF0000",
+      "action": true,
+      "color": "808080",
       "dopname": "(X2)",
-      "maxonline": 1000,
-      "name": "RED",
-      "online": 2,
+      "maxonline": 50,
+      "name": "GRAY",
+      "online": 15,
       "сonnector": 0
     },
     {
-      "action": true,
-      "color": "FFFF00",
-      "dopname": "(X2)",
-      "maxonline": 1000,
-      "name": "YELLOW",
-      "online": 2,
+      "action": false,
+      "color": "FFFFFF",
+      "dopname": "(X9999)",
+      "maxonline": 0,
+      "name": "TEST",
+      "online": 0,
       "сonnector": 1
     }
   ]
